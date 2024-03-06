@@ -1,6 +1,6 @@
 # Custom3D =>> This is a 3D model of a shirt which we can customize our shirt based on our needs
 ## Deployment =>> 
-https://custom3-d-shirt-design-j4e1ozfrc-merwin-rebello.vercel.app/
+https://custom3-d-shirt-design-merwin-rebello.vercel.app/
 ## Features
 ### Customize color based on the color pallete given 
 ### Upload the personal files and add it as a logo or the full texture of the shirt
